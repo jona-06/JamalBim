@@ -1,7 +1,7 @@
 ﻿{
     "edition":  "Public",
     "updatedAt":  "2026-10-13",
-    "suiteVersion":  "1.5.9",
+    "suiteVersion":  "1.6.0",
     "components":  [
                        {
                            "id":  "RevitIntegration",
@@ -44,6 +44,41 @@
                            "category":  "Вид",
                            "version":  "1.9",
                            "description":  "Навигация от первого лица (WASD + мышь) по 3D-модели Revit"
+                       },
+                       {
+                           "id":  "LookupTables",
+                           "name":  "Таблицы выбора",
+                           "category":  "Данные",
+                           "version":  "1.0",
+                           "description":  "Редактор CSV таблиц выбора типоразмеров для семейств Revit"
+                       },
+                       {
+                           "id":  "TableImporter",
+                           "name":  "Импортер спецификаций",
+                           "category":  "Данные",
+                           "version":  "1.0",
+                           "description":  "Перенос табличных данных из Excel в спецификации Revit"
+                       },
+                       {
+                           "id":  "UnitConverter",
+                           "name":  "Инженерный калькулятор",
+                           "category":  "Утилиты",
+                           "version":  "1.0",
+                           "description":  "Быстрый перевод расходов, мощностей и перепадов давления"
+                       },
+                       {
+                           "id":  "ViewClash",
+                           "name":  "Проверка коллизий вида",
+                           "category":  "Утилиты",
+                           "version":  "1.0",
+                           "description":  "Локальная проверка пересечений между элементами активного вида"
+                       },
+                       {
+                           "id":  "Updater",
+                           "name":  "Динамический пересчет",
+                           "category":  "Данные",
+                           "version":  "1.0",
+                           "description":  "Динамический пересчет изоляции и параметров воздуховодов/труб"
                        }
                    ]
 }
