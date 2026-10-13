@@ -1,0 +1,49 @@
+﻿{
+    "edition":  "Public",
+    "updatedAt":  "2026-10-13",
+    "suiteVersion":  "1.4.7",
+    "components":  [
+                       {
+                           "id":  "RevitIntegration",
+                           "name":  "Интеграция с Revit",
+                           "category":  "Ядро",
+                           "version":  "2.4",
+                           "description":  "Базовые сервисы привязки к Revit API, лента и общие ресурсы"
+                       },
+                       {
+                           "id":  "TrayApp",
+                           "name":  "Менеджер обновлений",
+                           "category":  "Служба",
+                           "version":  "1.0",
+                           "description":  "Фоновый агент в трее для автоматической проверки и безопасной установки обновлений"
+                       },
+                       {
+                           "id":  "SmartLoop",
+                           "name":  "Умный контур (Тёплый пол)",
+                           "category":  "Отопление",
+                           "version":  "3.8",
+                           "description":  "Автоматическая раскладка петель и спиралей теплого пола"
+                       },
+                       {
+                           "id":  "CalculateHeatLoss",
+                           "name":  "Расчет теплопотерь",
+                           "category":  "Отопление",
+                           "version":  "2.4",
+                           "description":  "Теплотехнический расчет помещений по СП 50 и СП 131 с экспортом"
+                       },
+                       {
+                           "id":  "HookupDiagram",
+                           "name":  "Схема обвязки",
+                           "category":  "Утилиты",
+                           "version":  "1.5",
+                           "description":  "Генерация принципиальных схем обвязки узлов и коллекторов на чертежных видах"
+                       },
+                       {
+                           "id":  "Walkthrough3D",
+                           "name":  "Прогулка 3D",
+                           "category":  "Вид",
+                           "version":  "1.9",
+                           "description":  "Навигация от первого лица (WASD + мышь) по 3D-модели Revit"
+                       }
+                   ]
+}
