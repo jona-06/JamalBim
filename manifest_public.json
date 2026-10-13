@@ -1,7 +1,7 @@
 ﻿{
     "edition":  "Public",
     "updatedAt":  "2026-10-13",
-    "suiteVersion":  "1.6.7",
+    "suiteVersion":  "1.6.8",
     "components":  [
                        {
                            "id":  "RevitIntegration",
@@ -19,7 +19,7 @@
                        },
                        {
                            "id":  "SmartLoop",
-                           "name":  "Умный контур (Тёплый пол)",
+                           "name":  "Умный контур",
                            "category":  "Отопление",
                            "version":  "3.9",
                            "description":  "Автоматическая раскладка петель и спиралей теплого пола"
