@@ -1,7 +1,7 @@
 ﻿{
     "edition":  "Admin",
     "updatedAt":  "2026-10-13",
-    "suiteVersion":  "1.4.7",
+    "suiteVersion":  "1.4.9",
     "components":  [
                        {
                            "id":  "RevitIntegration",
