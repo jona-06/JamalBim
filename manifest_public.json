@@ -1,14 +1,14 @@
 ﻿{
     "edition":  "Public",
     "updatedAt":  "2026-10-14",
-    "suiteVersion":  "2.0.1",
+    "suiteVersion":  "2.0.3",
     "downloadUrl":  "https://github.com/jona-06/JamalBim/releases/latest/download/Payload.zip",
     "components":  [
                        {
                            "id":  "Suite",
                            "name":  "Пакет JamalBim",
                            "category":  "Ядро",
-                           "version":  "2.0.1",
+                           "version":  "2.0.3",
                            "description":  "Версия сборки: все модули плагина обновляются вместе"
                        },
                        {
