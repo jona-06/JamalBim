@@ -1,13 +1,13 @@
 ﻿{
     "edition":  "Admin",
     "updatedAt":  "2026-10-14",
-    "suiteVersion":  "2.1.2",
+    "suiteVersion":  "2.1.4",
     "components":  [
                        {
                            "id":  "Suite",
                            "name":  "Пакет JamalBim",
                            "category":  "Ядро",
-                           "version":  "2.1.2",
+                           "version":  "2.1.4",
                            "description":  "Версия сборки: все модули плагина обновляются вместе"
                        },
                        {
