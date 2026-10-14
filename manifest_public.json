@@ -1,7 +1,7 @@
 ﻿{
     "edition":  "Public",
     "updatedAt":  "2026-10-14",
-    "suiteVersion":  "1.8.7",
+    "suiteVersion":  "1.8.8",
     "components":  [
                        {
                            "id":  "RevitIntegration",
