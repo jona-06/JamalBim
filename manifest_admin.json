@@ -1,14 +1,14 @@
 ﻿{
     "edition":  "Admin",
     "updatedAt":  "2026-10-17",
-    "suiteVersion":  "2.4.0",
+    "suiteVersion":  "2.4.2",
     "downloadUrl":  "https://github.com/jona-06/JamalBim/releases/latest/download/Payload_Admin.zip",
     "components":  [
                        {
                            "id":  "Suite",
                            "name":  "Пакет JamalBim",
                            "category":  "Ядро",
-                           "version":  "2.4.0",
+                           "version":  "2.4.2",
                            "description":  "Версия сборки: все модули плагина обновляются вместе"
                        },
                        {
@@ -22,7 +22,7 @@
                            "id":  "TrayApp",
                            "name":  "Менеджер обновлений",
                            "category":  "Служба",
-                           "version":  "2.4.0",
+                           "version":  "2.4.2",
                            "description":  "Фоновый агент в трее для автоматической проверки и безопасной установки обновлений"
                        },
                        {
@@ -171,6 +171,13 @@
                            "category":  "Данные",
                            "version":  "1.0",
                            "description":  "Профайлер производительности Revit: анатомический анализ перегруженных семейств, скрытых CAD-импортов и вложенностей"
+                       },
+                       {
+                           "id":  "FamilyManager",
+                           "name":  "Менеджер семейств",
+                           "category":  "Данные",
+                           "version":  "1.0",
+                           "description":  "Иерархический аудит, выборочное удаление и пакетная интеллектуальная замена семейств"
                        },
                        {
                            "id":  "Walkthrough3D",
