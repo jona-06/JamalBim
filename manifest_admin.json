@@ -1,14 +1,14 @@
 ﻿{
     "edition":  "Admin",
     "updatedAt":  "2026-10-18",
-    "suiteVersion":  "2.6.6",
+    "suiteVersion":  "2.6.7",
     "downloadUrl":  "https://github.com/jona-06/JamalBim/releases/latest/download/Payload_Admin.zip",
     "components":  [
                        {
                            "id":  "Suite",
                            "name":  "Пакет JamalBim",
                            "category":  "Ядро",
-                           "version":  "2.6.6",
+                           "version":  "2.6.7",
                            "description":  "Версия сборки: все модули плагина обновляются вместе"
                        },
                        {
@@ -22,7 +22,7 @@
                            "id":  "TrayApp",
                            "name":  "Менеджер обновлений",
                            "category":  "Служба",
-                           "version":  "2.6.6",
+                           "version":  "2.6.7",
                            "description":  "Фоновый агент в трее для автоматической проверки и безопасной установки обновлений"
                        },
                        {
