@@ -1,14 +1,14 @@
 ﻿{
     "edition":  "Public",
     "updatedAt":  "2026-10-19",
-    "suiteVersion":  "2.7.1",
+    "suiteVersion":  "2.2.12",
     "downloadUrl":  "https://github.com/jona-06/JamalBim/releases/latest/download/Payload.zip",
     "components":  [
                        {
                            "id":  "Suite",
                            "name":  "Пакет JamalBim",
                            "category":  "Ядро",
-                           "version":  "2.7.1",
+                           "version":  "2.2.12",
                            "description":  "Версия сборки: все модули плагина обновляются вместе"
                        },
                        {
@@ -22,7 +22,7 @@
                            "id":  "TrayApp",
                            "name":  "Менеджер обновлений",
                            "category":  "Служба",
-                           "version":  "2.7.1",
+                           "version":  "2.2.12",
                            "description":  "Фоновый агент в трее для автоматической проверки и безопасной установки обновлений"
                        },
                        {
