@@ -1,14 +1,14 @@
 ﻿{
     "edition":  "Public",
     "updatedAt":  "2026-11-06",
-    "suiteVersion":  "3.5.0",
+    "suiteVersion":  "3.5.1",
     "downloadUrl":  "https://github.com/jona-06/JamalBim/releases/latest/download/Payload.zip",
     "components":  [
                        {
                            "id":  "Suite",
                            "name":  "Пакет JamalBim",
                            "category":  "Ядро",
-                           "version":  "3.5.0",
+                           "version":  "3.5.1",
                            "description":  "Версия сборки: все модули плагина обновляются вместе"
                        },
                        {
@@ -22,7 +22,7 @@
                            "id":  "TrayApp",
                            "name":  "Менеджер обновлений",
                            "category":  "Служба",
-                           "version":  "3.5.0",
+                           "version":  "3.5.1",
                            "description":  "Фоновый агент в трее для автоматической проверки и безопасной установки обновлений"
                        },
                        {
@@ -82,6 +82,13 @@
                            "description":  "Редактор CSV таблиц выбора типоразмеров для семейств Revit"
                        },
                        {
+                           "id":  "FamilyCategories",
+                           "name":  "Категории семейств",
+                           "category":  "Данные",
+                           "version":  "1.0",
+                           "description":  "Пакетное переназначение категорий семейств"
+                       },
+                       {
                            "id":  "Updater",
                            "name":  "Динамический пересчет",
                            "category":  "Данные",
@@ -94,6 +101,13 @@
                            "category":  "Данные",
                            "version":  "1.0",
                            "description":  "Элементы спецификации без геометрии списком из таблицы"
+                       },
+                       {
+                           "id":  "FamilyManager",
+                           "name":  "Менеджер семейств",
+                           "category":  "Данные",
+                           "version":  "1.0",
+                           "description":  "Иерархический аудит, выборочное удаление и пакетная интеллектуальная замена семейств"
                        },
                        {
                            "id":  "Walkthrough3D",
