@@ -28,37 +28,37 @@
 
 **Отопление**
 
-| | | |
-|---|---|---|
-| <img src="img/icons/smart_loop_64.png" width="32"> | **Умный контур** | Раскладывает петли тёплого пола по помещениям: улитка, змейка, обход колонн. Старается сделать петли одной длины |
-| <img src="img/icons/heat_loss_64.png" width="32"> | **Расчёт теплопотерь** | Теплопотери помещений по СП 50.13330, 60.13330 и 131.13330 |
+<table>
+<tr><td width="56" align="center"><img src="img/icons/smart_loop_64.png" width="40" height="40"></td><td width="190"><b>Умный контур</b></td><td>Раскладывает петли тёплого пола по помещениям: улитка, змейка, обход колонн. Старается сделать петли одной длины</td></tr>
+<tr><td width="56" align="center"><img src="img/icons/heat_loss_64.png" width="40" height="40"></td><td width="190"><b>Расчёт теплопотерь</b></td><td>Теплопотери помещений по СП 50.13330, 60.13330 и 131.13330</td></tr>
+</table>
 
 **Утилиты**
 
-| | | |
-|---|---|---|
-| <img src="img/icons/converter_64.png" width="32"> | **Быстрый расчёт** | Подбор трубы, Kvs, мощность и расход, радиатор на свой график, тёплый пол по пирогу, смесительный узел, расширительный бак, воздуховоды. Плюс конвертер единиц |
-| <img src="img/icons/hookup_64.png" width="32"> | **Схема обвязки** | Собирает схему обвязки узла, взрыв-схему и спецификацию к ней |
-| <img src="img/icons/clash_check_64.png" width="32"> | **Проверка пересечений** | Ищет коллизии на открытом виде |
-| <img src="img/icons/sheet_export_64.png" width="32"> | **Экспорт листов** | Листы и виды в PDF, DWG и IFC: свои имена файлов, папки, архив ZIP |
-| <img src="img/icons/importer_64.png" width="32"> | **Импортер** | Вставляет таблицу из Excel, чата или JSON в спецификацию по ГОСТ |
+<table>
+<tr><td width="56" align="center"><img src="img/icons/converter_64.png" width="40" height="40"></td><td width="190"><b>Быстрый расчёт</b></td><td>Подбор трубы, Kvs, мощность и расход, радиатор на свой график, тёплый пол по пирогу, смесительный узел, расширительный бак, воздуховоды. Плюс конвертер единиц</td></tr>
+<tr><td width="56" align="center"><img src="img/icons/hookup_64.png" width="40" height="40"></td><td width="190"><b>Схема обвязки</b></td><td>Собирает схему обвязки узла, взрыв-схему и спецификацию к ней</td></tr>
+<tr><td width="56" align="center"><img src="img/icons/clash_check_64.png" width="40" height="40"></td><td width="190"><b>Проверка пересечений</b></td><td>Ищет коллизии на открытом виде</td></tr>
+<tr><td width="56" align="center"><img src="img/icons/sheet_export_64.png" width="40" height="40"></td><td width="190"><b>Экспорт листов</b></td><td>Листы и виды в PDF, DWG и IFC: свои имена файлов, папки, архив ZIP</td></tr>
+<tr><td width="56" align="center"><img src="img/icons/importer_64.png" width="40" height="40"></td><td width="190"><b>Импортер</b></td><td>Вставляет таблицу из Excel, чата или JSON в спецификацию по ГОСТ</td></tr>
+</table>
 
 **Данные**
 
-| | | |
-|---|---|---|
-| <img src="img/icons/family_manager_64.png" width="32"> | **Менеджер семейств** | Показывает, какие семейства есть в проекте и где они стоят. Можно удалить лишнее или заменить одно другим сразу во всём проекте |
-| <img src="img/icons/lookup_table_64.png" width="32"> | **Таблицы выбора** | Редактор Lookup Tables для семейств, без возни с CSV |
-| <img src="img/icons/specification_64.png" width="32"> | **Категории семейств** | Раскладывает элементы по категориям для спецификаций |
-| <img src="img/icons/updater_64.png" width="32"> | **Апдейтер** | Заполняет ADSK_Наименование и количество, можно пакетно |
-| <img src="img/icons/dummy_families_64.png" width="32"> | **Пустышки** | Хомуты, гайки, датчики и прочее, что нужно в спецификации, но не нужно в модели. Создаются списком из таблицы |
+<table>
+<tr><td width="56" align="center"><img src="img/icons/family_manager_64.png" width="40" height="40"></td><td width="190"><b>Менеджер семейств</b></td><td>Показывает, какие семейства есть в проекте и где они стоят. Можно удалить лишнее или заменить одно другим сразу во всём проекте</td></tr>
+<tr><td width="56" align="center"><img src="img/icons/lookup_table_64.png" width="40" height="40"></td><td width="190"><b>Таблицы выбора</b></td><td>Редактор Lookup Tables для семейств, без возни с CSV</td></tr>
+<tr><td width="56" align="center"><img src="img/icons/specification_64.png" width="40" height="40"></td><td width="190"><b>Категории семейств</b></td><td>Раскладывает элементы по категориям для спецификаций</td></tr>
+<tr><td width="56" align="center"><img src="img/icons/updater_64.png" width="40" height="40"></td><td width="190"><b>Апдейтер</b></td><td>Заполняет ADSK_Наименование и количество, можно пакетно</td></tr>
+<tr><td width="56" align="center"><img src="img/icons/dummy_families_64.png" width="40" height="40"></td><td width="190"><b>Пустышки</b></td><td>Хомуты, гайки, датчики и прочее, что нужно в спецификации, но не нужно в модели. Создаются списком из таблицы</td></tr>
+</table>
 
 **Вид**
 
-| | | |
-|---|---|---|
-| <img src="img/icons/walk_3d_64.png" width="32"> | **Прогулка 3D** | Ходишь по модели как в игре, на WASD и мышке. По лестницам поднимается плавно |
-| <img src="img/icons/node_sheets_64.png" width="32"> | **Развёртка пространств** | Одной кнопкой делает лист узла: кусок плана, развёртку стен и аксонометрию помещения |
+<table>
+<tr><td width="56" align="center"><img src="img/icons/walk_3d_64.png" width="40" height="40"></td><td width="190"><b>Прогулка 3D</b></td><td>Ходишь по модели как в игре, на WASD и мышке. По лестницам поднимается плавно</td></tr>
+<tr><td width="56" align="center"><img src="img/icons/node_sheets_64.png" width="40" height="40"></td><td width="190"><b>Развёртка пространств</b></td><td>Одной кнопкой делает лист узла: кусок плана, развёртку стен и аксонометрию помещения</td></tr>
+</table>
 
 ## Связь
 
