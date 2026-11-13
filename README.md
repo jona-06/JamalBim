@@ -60,6 +60,34 @@
 <tr><td width="56" align="center"><img src="img/icons/node_sheets_64.png" width="40" height="40"></td><td width="190"><b>Развёртка пространств</b></td><td>Одной кнопкой делает лист узла: кусок плана, развёртку стен и аксонометрию помещения</td></tr>
 </table>
 
+## Как это выглядит
+
+Ролики ускорены. Полные версии с пояснениями есть в [канале](https://t.me/jamalbim).
+
+**Умный контур** — раскладка тёплого пола в помещениях разной формы
+
+<img src="img/gif/smart-loop.gif" width="100%" alt="Умный контур">
+
+**Расчёт теплопотерь**
+
+<img src="img/gif/heat-loss.gif" width="100%" alt="Расчёт теплопотерь">
+
+**Схема обвязки**
+
+<img src="img/gif/hookup.gif" width="100%" alt="Схема обвязки">
+
+**Прогулка 3D** — ходьба по модели и рулетка
+
+<img src="img/gif/walkthrough-3d.gif" width="100%" alt="Прогулка 3D">
+
+**Развёртка пространств**
+
+<img src="img/gif/node-sheets.gif" width="100%" alt="Развёртка пространств">
+
+**Пустышки**
+
+<img src="img/gif/dummy-families.gif" width="100%" alt="Пустышки">
+
 ## Связь
 
 Видео, новости и вопросы — в Telegram: [t.me/jamalbim](https://t.me/jamalbim).
