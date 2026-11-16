@@ -1,14 +1,14 @@
 ﻿{
     "edition":  "Admin",
-    "updatedAt":  "2026-11-15",
-    "suiteVersion":  "3.6.6",
+    "updatedAt":  "2026-11-16",
+    "suiteVersion":  "3.6.9",
     "downloadUrl":  "https://github.com/jona-06/JamalBim/releases/latest/download/Payload_Admin.zip",
     "components":  [
                        {
                            "id":  "Suite",
                            "name":  "Пакет JamalBim",
                            "category":  "Ядро",
-                           "version":  "3.6.6",
+                           "version":  "3.6.9",
                            "description":  "Версия сборки: все модули плагина обновляются вместе"
                        },
                        {
@@ -22,7 +22,7 @@
                            "id":  "TrayApp",
                            "name":  "Менеджер обновлений",
                            "category":  "Служба",
-                           "version":  "3.6.6",
+                           "version":  "3.6.9",
                            "description":  "Фоновый агент в трее для автоматической проверки и безопасной установки обновлений"
                        },
                        {
@@ -226,7 +226,7 @@
                            "name":  "Для телефона",
                            "category":  "Вид",
                            "version":  "1.0",
-                           "description":  "Пакет .jbv для программы «JamalBim Просмотр» на Android: виды, 3D и свойства элементов"
+                           "description":  "Один HTML-файл для телефона и ПК: виды, листы, 3D, свойства и пометки"
                        }
                    ]
 }
