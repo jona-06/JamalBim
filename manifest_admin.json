@@ -1,14 +1,14 @@
 ﻿{
     "edition":  "Admin",
     "updatedAt":  "2026-11-17",
-    "suiteVersion":  "3.7.7",
+    "suiteVersion":  "3.7.8",
     "downloadUrl":  "https://github.com/jona-06/JamalBim/releases/latest/download/Payload_Admin.zip",
     "components":  [
                        {
                            "id":  "Suite",
                            "name":  "Пакет JamalBim",
                            "category":  "Ядро",
-                           "version":  "3.7.7",
+                           "version":  "3.7.8",
                            "description":  "Версия сборки: все модули плагина обновляются вместе"
                        },
                        {
@@ -22,7 +22,7 @@
                            "id":  "TrayApp",
                            "name":  "Менеджер обновлений",
                            "category":  "Служба",
-                           "version":  "3.7.7",
+                           "version":  "3.7.8",
                            "description":  "Фоновый агент в трее для автоматической проверки и безопасной установки обновлений"
                        },
                        {
@@ -47,20 +47,6 @@
                            "description":  "Теплотехнический расчет помещений по СП 50 и СП 131 с экспортом"
                        },
                        {
-                           "id":  "WaterSupply",
-                           "name":  "Расчет водоснабжения",
-                           "category":  "Водоснабжение",
-                           "version":  "1.2",
-                           "description":  "Гидравлический расчет систем В1, Т3, Т4 по СП 30.13330"
-                       },
-                       {
-                           "id":  "WaterManifoldName",
-                           "name":  "Имена коллекторов",
-                           "category":  "Утилиты",
-                           "version":  "1.0",
-                           "description":  "Автоматическая маркировка и структурирование шкафов и гребенок"
-                       },
-                       {
                            "id":  "ConnectConnectors",
                            "name":  "Соединить коннекторы",
                            "category":  "Утилиты",
@@ -82,25 +68,11 @@
                            "description":  "Синхронизация диаметров парных подающих и обратных трубопроводов"
                        },
                        {
-                           "id":  "QuickResize",
-                           "name":  "Быстрый выбор MEP",
-                           "category":  "Утилиты",
-                           "version":  "1.0",
-                           "description":  "Мини-панель изменения отметок и диаметров труб"
-                       },
-                       {
                            "id":  "UnitConverter",
                            "name":  "Инженерный калькулятор",
                            "category":  "Утилиты",
                            "version":  "1.0",
                            "description":  "Быстрый перевод расходов, мощностей и перепадов давления"
-                       },
-                       {
-                           "id":  "RoomBoundaries",
-                           "name":  "Границы помещений",
-                           "category":  "Утилиты",
-                           "version":  "1.0",
-                           "description":  "Преобразование контуров помещений в линии детализации"
                        },
                        {
                            "id":  "HookupDiagram",
@@ -143,13 +115,6 @@
                            "category":  "Данные",
                            "version":  "1.0",
                            "description":  "Перенос табличных данных из Excel в спецификации Revit"
-                       },
-                       {
-                           "id":  "ExportModelDump",
-                           "name":  "Диагностический дамп",
-                           "category":  "Данные",
-                           "version":  "1.0",
-                           "description":  "Выгрузка геометрического и гидравлического графа модели для аудита"
                        },
                        {
                            "id":  "TaskPlanner",
